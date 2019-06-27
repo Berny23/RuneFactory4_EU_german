@@ -2,7 +2,7 @@
 						UNOFFICIAL GERMAN TRANSLATION
 								 Nintendo 3DS
 
-							 --- ALLGEMEINES ---
+							  --- ALLGEMEIN ---
 
 Diese inoffizielle deutsche Übersetzung von Rune Factory 4 wurde vollständig von mir
 (Berny23) erstellt und mithilfe des Tools "Rune Translator" von Chrisblue realisiert.
@@ -22,6 +22,7 @@ Der Text des gesamten Spiels ist derzeit nur dann grammatikalisch richtig, wenn 
 Anfang ein männlicher Charakter gewählt wird!
 
 							--- PATCHVORGANG ---
+
 Um meine Übersetzung ins Spiel einzufügen, benötigt ihr lediglich folgendes:
 -> Deutsche Übersetzung: https://github.com/Berny23/RuneFactory4_EU_german
 -> HackingToolkit9DS: https://github.com/Asia81/HackingToolkit9DS-Deprecated-/releases
@@ -47,6 +48,28 @@ Ausführliche Anleitung:
 
 So, Geschafft. Viel Spaß beim Spielen!
 
+							  --- FEEDBACK ---
+
+Ich bitte alle Spieler meiner übersetzten Version ausdrücklich um Feedback in Form von
+Sternen auf GitHub und/oder Kommentare unter dem YouTube-Video.
+
+Du hast einen Fehler in der Übersetzung gefunden? Erstelle einfach einen neuen
+"Issue"-Eintrag auf GitHub (in der oberen Leiste neben "Code"). Wähle dabei den Typ
+"Bug report".
+
+Bitte melde folgende Arten von Fehlern:
+-> Rechtschreib- und Grammatikfehler
+-> Überlange Textzeilen
+-> Falsche Anreden ("Du", "Ihr", ...)
+-> Formulierungsfehler
+-> Zu viele Leerzeichen, Punkte, etc.
+-> Abweichende Gegenstandsnamen
+
+Achte bitte darauf, den entsprechenden Text komplett und exakt abzuschreiben, da ich ihn
+sonst eventuell nicht finden kann! Screenshots oder Fotos kannst du auch verlinken.
+
+Vielen Dank!
+
 						   --- DIE ÜBERSETZUNG ---
 
 Die deutsche Übersetzung basiert auf der offiziellen englischen EU-Version des Spiels.
@@ -59,16 +82,33 @@ Als Anredeform, die nur von direkten Untertanen des Prinzen benutzt wird, verwen
 die heutzutage veraltete Anrede in der 2. Person Mehrzahl ("Ihr", "Euch"). Alle anderen
 Personen duzen den Prinzen/die Prinzessin.
 
+Manche Wortkombinationen (z. B. Angriffstypen) sind absichtlich großgeschrieben, da
+sie als Eigennamen fungieren.
+
+Notiz an mich: Die normalen Textboxen bieten Platz für ca. 33 - 40 Zeichen in den
+ersten beiden Zeilen.
+
 							 --- WÖRTERBUCH ---
 
-ENGLISCH			-		DEUTSCH
-__________________________________________
-Skill				-		Fertigkeit
-Dungeon				-		Dungeon
-Level				-		Level
-Cooking Bread		-		Magisches Brot
-Lady Ventuswill		-		Herrin Ventuswill
-Native Dragon		-		Einheimischer Drache
+ENGLISCH				-		DEUTSCH
+________________________________________________________
+Skill					-		Fertigkeit
+Dungeon					-		Dungeon
+Level					-		Level
+Cooking Bread			-		Magisches Brot
+Lady Ventuswill			-		Herrin Ventuswill
+Native Dragon			-		Einheimischer Drache
+Sincerity General Store	-		Blossoms Gemischtwarenladen
+Tiny Bandage Clinic		-		Glückspflaster Klinik
+Observatory				-		Aussichtspunkt
+Lumber					-		Bauholz
+Difficulty: Normal		-		Schwierigkeit: Mittel
+Wooly					-		Wolli
+Runey					-		Runenkäfer
+Chipsqueek				-		Waldhörnchen
+Mistress Trupin			-		Miss Rübchen
+Hobgoblin				-		Großkobold
+Goblin Don				-		Kobold-Ganovenboss
 
 							 --- DISCLAIMER ---
 
