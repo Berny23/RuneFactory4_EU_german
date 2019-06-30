@@ -9,10 +9,10 @@ Diese inoffizielle deutsche Übersetzung von Rune Factory 4 wurde vollständig v
 
 							   --- STATUS ---
 
-Dialoge:		  1%
+Dialoge:		  2%
 Items:			  1%
-Orte:			 10%
-NPCs:			  5%
+Orte:			 12%
+NPCs:			 92%
 Menüs:			 30%
 Grafiken:		  0%
 
@@ -92,22 +92,78 @@ ersten beiden Zeilen.
 
 ENGLISCH				-		DEUTSCH
 ________________________________________________________
-Skill					-		Fertigkeit
-Dungeon					-		Dungeon
-Level					-		Level
-Cooking Bread			-		Magisches Brot
-Lady Ventuswill			-		Herrin Ventuswill
-Native Dragon			-		Einheimischer Drache
+
 Sincerity General Store	-		Blossoms Gemischtwarenladen
 Tiny Bandage Clinic		-		Glückspflaster Klinik
 Observatory				-		Aussichtspunkt
 Bell Hotel				-		Gagaku-Hotel
 Inn						-		Hotel
+
 Lumber					-		Bauholz
 Toyherb					-		Toykraut
 Flower Blossom			-		Pracht-Blume
 Pepper					-		Paprika
+Cooking Bread			-		Magisches Brot
+Wtr. Dragon's Fin		-		Drachenflosse
+Can						-		Dose
+Venti's Charm			-		Ventis Talisman
+Jack Seeds				-		Halloween-Samen
+Bomb Seeds				-		Bombelon-Samen
+Lily Seeds				-		Seerosen-Samen
+Bean Seeds				-		Bohnling-Samen
+Emery					-		Schmirgelpapier
+Ayngondaia Lawn			-		Kraut der Belebung
+Moondrop Flower			-		Mondtau-Blume
+Lamp Grass				-		Leuchtgras
+Emery Flower			-		Schmirgelblume
+Pink Cat				-		Katzenglocke
+Charm Blue				-		Blauzauber
+Bok Choy				-		Pak Choi
+Noel Grass				-		Weihnachtsgras
+Hot-Hot Fruit			-		Ultrascharfe Frucht
+Twinkle Tree			-		Funkelbaum
+Kaiser Lamp Grass		-		Königs-Leuchtgras
+King Gold Cabbage		-		Goldener Königskohl
+Doom Pumpkin			-		Unheils-Kürbis
+Titan Tomato			-		Riesen-Tomate
+Emperor Eggplant		-		Kaiser-Aubergine
+Giant 4-Leaf Clover		-		Riesen 4-Blatt Klee
+Lordly Yam				-		Lord-Yamswurzel
+Princely Potato			-		Fürstkartoffel
+Green Pepper Rex		-		Grüne Giga-Paprika
+Sovereign Spinach		-		Hoheitlicher Spinat
+Gold Princely Potato	-		Goldene Fürstkartoffel
+Tyrant Turnip			-		Tyrannenrübe
+Noble Radish			-		Edler Rettich
+Boss Bok Choy			-		Meister-Pak Choi
+Large Noel Grass		-		Großweihnachtsgras
+Giant Hot-Hot Fruit		-		Ultrascharfe Giga-Frucht
+Brazier					-		Kohlenfeuer
+Folding Screen			-		Paravent
+Wing Fin				-		Seitenflosse
+Warp					-		Teleporter
+Mailbox					-		Briefkasten
+Board					-		Tafel
+Order Symbol			-		Anordnungstafel
+Order Board				-		Auftragstafel
+Gate					-		Tor
+Light Gate				-		Helles Tor
+Dark Gate				-		Dunkles Tor
+Precious Gate			-		Kostbares Tor
+Blaze Gate				-		Brand-Tor
+Abyss Gate				-		Abgrunds-Tor
+
 Difficulty: Normal		-		Schwierigkeit: Mittel
+Skill					-		Fertigkeit
+Dungeon					-		Dungeon
+Level					-		Level
+Item					-		Gegenstand
+Earthmate				-		Erdverbundener
+Shift					-		Schicht
+Trophy					-		Trophäe
+*RATTLE*				-		*RASSEL*
+
+Native Dragon			-		Einheimischer Drache
 Wooly					-		Wolli
 Runey					-		Runenkäfer
 Chipsqueek				-		Waldhörnchen
@@ -149,6 +205,9 @@ Gaias					-		Erdgeist
 Palm Cat				-		Leopardette
 Malm Tiger				-		Sumatra
 Gasham					-		Panzer
+Ruffled Vine			-		
+Ruffled Horsetail		-		
+Ruffled Flower			-		
 Shmooly					-		Schmolli
 Fortoise				-		Schwungkröte
 Thunderbird				-		Donnerschwanz
@@ -168,7 +227,45 @@ Kinoto					-		Indigo-Löwe
 Death Wall				-		Wand des Todes
 Aquameleon				-		Aquaticus-Imitat
 Thunderbolt				-		Nachtblitz
+Sarcophagus				-		Sarkophagus
+Ragnarok				-		Ragnarök
+Rafflesia				-		
+Armored Tank +			-		Gefechtspanzer
+Heaven's Gate			-		Himmelspforte
+Rouge					-		Goldrouge
+Emerald					-		Smaragona
+Marin					-		Aquamarin
+Olive					-		Olivgrün
+Shivering Owl			-		Kreischeule
+
+Rejuvenating Orb		-		Regenerationskugel
+Sparkling Orb			-		Funkelnde Kugel
+Flittering Orb			-		Flatternde Kugel
+Freezing Orb			-		Gefrierende Kugel
+Twinkle					-		Glanz
+
+Buddy Battle			-		Kumpel-Kampf
+
+Masu Trout				-		Forelle
+Char					-		Saibling
+Chub					-		Döbel
+Glitter Snapper			-		Glitzerschnapper
+Skipjack				-		Echter Bonito
+Gibelio					-		Silberkarausche
+Needle Fish				-		Hornhecht
+Sunsquid				-		Sonnenkalmar
+Throbby Snapper			-		Herzschnapper
+Crucian Carp			-		Karausche
+Girella					-		Ruderfisch
+Cherry Salmon			-		Masu-Lachs
+Lamp Squid				-		Leuchtkalmar
+Pond Smelt				-		Nudelfisch
+Rockfish				-		Steinfisch
+Boot					-		Stiefel
+
+Lady Ventuswill			-		Herrin Ventuswill
 Mistress Trupin			-		Miss Rübchen
+
 Sweetie					-		Schätzchen
 Darling					-		Liebling
 Honey					-		Schatz
