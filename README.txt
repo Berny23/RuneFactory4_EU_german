@@ -101,14 +101,87 @@ Native Dragon			-		Einheimischer Drache
 Sincerity General Store	-		Blossoms Gemischtwarenladen
 Tiny Bandage Clinic		-		Glückspflaster Klinik
 Observatory				-		Aussichtspunkt
+Bell Hotel				-		Gagaku-Hotel
+Inn						-		Hotel
 Lumber					-		Bauholz
+Toyherb					-		Toykraut
+Flower Blossom			-		Pracht-Blume
+Pepper					-		Paprika
 Difficulty: Normal		-		Schwierigkeit: Mittel
 Wooly					-		Wolli
 Runey					-		Runenkäfer
 Chipsqueek				-		Waldhörnchen
-Mistress Trupin			-		Miss Rübchen
+High Ork				-		Großork
+Arch-Daemon				-		Erz-Dämon
+Titan					-		Riese
+Beetle					-		Panzerkäfer
+Weagle					-		Brahmini
+Blackbird				-		Amsel
+Furpy					-		Flauschi
+Death Stalker			-		Todesskorpion
+Big Muck				-		Riesenpilz
+Tricky Muck				-		Leuchtpilz
+Leaf Ball				-		Blattbällchen
+Planchoa				-		Blütenbällchen
+Sealy					-		Robkarpf
+Tortas					-		Plattenkröte
+Ignis					-		Flammschweif
+Tundra					-		Eisschweif
+Airror					-		Geistschweif
+Necro					-		Nekromant
+Faust					-		Todbringer
+Gobble Box				-		Gefräßige Truhe
+Cluckadoodle			-		Kraienkopp
+Pomme Pomme				-		Pomm-Pomm
 Hobgoblin				-		Großkobold
 Goblin Don				-		Kobold-Ganovenboss
+Elefun					-		Elefanta
+Mammoo					-		Mammut
+Cloudy					-		Wolki
+Nappie					-		Anasna
+Mino					-		Thyri
+Snowy					-		Schugli
+Baal					-		Baal
+Onionger				-		Zwiebelritter
+Ghost Ray				-		Todesgeist
+Heaven's Scissors		-		Himmelsskorpion
+Gaias					-		Erdgeist
+Palm Cat				-		Leopardette
+Malm Tiger				-		Sumatra
+Gasham					-		Panzer
+Shmooly					-		Schmolli
+Fortoise				-		Schwungkröte
+Thunderbird				-		Donnerschwanz
+Mamadoodle				-		Kraienkopp-Mutter
+Mineral Squeek			-		Gesteinshörnchen
+Typhoon					-		Sturmbringer
+Leoplicant				-		Panthero
+Flare Mage				-		Feuermagier
+Elemental Emperor		-		Herr der Elemente
+Grimoire				-		Grimoire
+Terraclone				-		Terrable-Imitat
+Fiergaenger				-		Fiersome-Imitat
+Magnuto					-		Magnaro
+Ancient Bone			-		Uraltes Skelett
+Hinoe					-		Karmesin-Löwe
+Kinoto					-		Indigo-Löwe
+Death Wall				-		Wand des Todes
+Aquameleon				-		Aquaticus-Imitat
+Thunderbolt				-		Nachtblitz
+Mistress Trupin			-		Miss Rübchen
+Sweetie					-		Schätzchen
+Darling					-		Liebling
+Honey					-		Schatz
+Babe					-		Süße
+Buddy					-		Kumpel
+Dear					-		Liebe(r)
+Li'l					-		Klein
+Wittle					-		Holde(r)
+Love					-		Geliebte(r)
+Little					-		Kleine
+Sugar					-		Zuckerchen
+Landlady				-		Hausherrin
+Puppy					-		Hündchen
 
 							 --- DISCLAIMER ---
 
