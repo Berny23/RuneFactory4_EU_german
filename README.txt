@@ -11,8 +11,8 @@ Diese inoffizielle deutsche Übersetzung von Rune Factory 4 wurde vollständig v
 
 Dialoge:		  2%
 Items:			  1%
-Orte:			 12%
-NPCs:			 92%
+Orte:			100%
+NPCs:			100%
 Menüs:			 30%
 Grafiken:		  0%
 
@@ -63,7 +63,7 @@ Bitte melde folgende Arten von Fehlern:
 -> Falsche Anreden ("Du", "Ihr", ...)
 -> Formulierungsfehler
 -> Zu viele Leerzeichen, Punkte, etc.
--> Abweichende Gegenstandsnamen
+-> Uneinheitliche Bezeichnungen
 
 Achte bitte darauf, den entsprechenden Text komplett und exakt abzuschreiben, da ich ihn
 sonst eventuell nicht finden kann! Screenshots oder Fotos kannst du auch verlinken.
@@ -83,7 +83,10 @@ die heutzutage veraltete Anrede in der 2. Person Mehrzahl ("Ihr", "Euch"). Alle 
 Personen duzen den Prinzen/die Prinzessin.
 
 Manche Wortkombinationen (z. B. Angriffstypen) sind absichtlich großgeschrieben, da
-sie als Eigennamen fungieren.
+sie als Eigennamen fungieren. Die Namen der legendären Drachen habe ich alle beibehalten,
+da sie in früheren Teilen der Rune Factory-Reihe bereits vorkamen und außerdem mehr oder
+meniger sprechende Charaktere sind. Generell sind fast alle Namen/Bezeichnungen, die sich
+auf ältere RF-Teile beziehen, möglichst ähnlich bzw. gleich geblieben.
 
 Notiz an mich: Die normalen Textboxen bieten Platz für ca. 33 - 40 Zeichen in den
 ersten beiden Zeilen.
@@ -98,6 +101,26 @@ Tiny Bandage Clinic		-		Glückspflaster Klinik
 Observatory				-		Aussichtspunkt
 Bell Hotel				-		Gagaku-Hotel
 Inn						-		Hotel
+Floating Empire			-		Himmelsimperium
+Selphia Plain			-		Selphia-Ebene
+Carnation's				-		Blumenladen Nelkenduft
+Buried Cave				-		Verschüttete Höhle
+Cliff					-		Felsklippe
+Obsidian Mansion		-		Obsidianvilla
+Sainte-Coquille Manor	-		Sainte-Coquille Anwesen
+Twin Rocks				-		Zwillingsfelsen
+Leon Karnak				-		Turm des Waldes
+Cedar Tree				-		Zederbaum
+Daily Road				-		Tagesstraße
+Imperial Research Cntr	-		Imp. Forschungszentrum
+Silver Arch				-		Silberbogen
+Silver Lake				-		Silbersee
+Demon's Den				-		Teufelsgrube
+Revival Cave			-		Erweckungshöhle
+Sharance Maze			-		Sharance-Labyrinth
+Sechs Territory			-		Sechs-Territorium
+Rune Prana				-		Runengewölbe
+Amoureux des Saisons	-		Jahreszeitenliebhaber
 
 Lumber					-		Bauholz
 Toyherb					-		Toykraut
@@ -205,9 +228,9 @@ Gaias					-		Erdgeist
 Palm Cat				-		Leopardette
 Malm Tiger				-		Sumatra
 Gasham					-		Panzer
-Ruffled Vine			-		
-Ruffled Horsetail		-		
-Ruffled Flower			-		
+Ruffled Vine			-		Rafflesia-Ranke
+Ruffled Horsetail		-		Rafflesia-Halm
+Ruffled Flower			-		Rafflesia-Blüte
 Shmooly					-		Schmolli
 Fortoise				-		Schwungkröte
 Thunderbird				-		Donnerschwanz
@@ -229,7 +252,7 @@ Aquameleon				-		Aquaticus-Imitat
 Thunderbolt				-		Nachtblitz
 Sarcophagus				-		Sarkophagus
 Ragnarok				-		Ragnarök
-Rafflesia				-		
+Rafflesia				-		Rafflesia
 Armored Tank +			-		Gefechtspanzer
 Heaven's Gate			-		Himmelspforte
 Rouge					-		Goldrouge
