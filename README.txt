@@ -80,13 +80,20 @@ die Bezeichnungen Kerker oder Verlies für Dungeons in einem JRPG.*)
 
 Als Anredeform, die nur von direkten Untertanen des Prinzen benutzt wird, verwende ich
 die heutzutage veraltete Anrede in der 2. Person Mehrzahl ("Ihr", "Euch"). Alle anderen
-Personen duzen den Prinzen/die Prinzessin.
+Personen duzen den Prinzen/die Prinzessin. Da die Verwendung von besonderen Arten der Anrede
+beim Übersetzen sehr anstrengend ist, duzen sich die meisten NPCs nach relativ kurzer Zeit ;)
 
 Manche Wortkombinationen (z. B. Angriffstypen) sind absichtlich großgeschrieben, da
 sie als Eigennamen fungieren. Die Namen der legendären Drachen habe ich alle beibehalten,
 da sie in früheren Teilen der Rune Factory-Reihe bereits vorkamen und außerdem mehr oder
 meniger sprechende Charaktere sind. Generell sind fast alle Namen/Bezeichnungen, die sich
-auf ältere RF-Teile beziehen, möglichst ähnlich bzw. gleich geblieben.
+auf ältere RF-Teile beziehen, möglichst ähnlich bzw. gleich geblieben. Die vorhandenen
+Soundtrack-Titel habe ich auf Englisch gelassen, da man schließlich auch bei echten Musikalben
+keine Lokalisierung vornimmt.
+
+Bei der Gestaltung von Eigennamen (z. B. Monster oder Trophäen) konnte ich durch die relativ
+"langweilige" englische Vorlage einige Kreativitär einfließen lassen. Seht euch also gerne die
+Namen der einzigartigen und seltenen Trophäen an.
 
 Notiz an mich: Die normalen Textboxen bieten Platz für ca. 33 - 40 Zeichen in den
 ersten beiden Zeilen.
@@ -123,6 +130,10 @@ Rune Prana				-		Runengewölbe
 Amoureux des Saisons	-		Jahreszeitenliebhaber
 
 Lumber					-		Bauholz
+Material Stone			-		Materialstein
+Fertilizer Bin			-		Düngemittelbehälter
+Storage Trunk			-		Lagertruhe
+Request Box				-		Auftragsbox
 Toyherb					-		Toykraut
 Flower Blossom			-		Pracht-Blume
 Pepper					-		Paprika
@@ -175,6 +186,8 @@ Dark Gate				-		Dunkles Tor
 Precious Gate			-		Kostbares Tor
 Blaze Gate				-		Brand-Tor
 Abyss Gate				-		Abgrunds-Tor
+Crafting Table			-		Handwerkstisch
+Shopbox					-		Ladenkiste
 
 Difficulty: Normal		-		Schwierigkeit: Mittel
 Skill					-		Fertigkeit
@@ -185,6 +198,16 @@ Earthmate				-		Erdverbundener
 Shift					-		Schicht
 Trophy					-		Trophäe
 *RATTLE*				-		*RASSEL*
+Sechs Empire			-		Sechs-Reich
+Forest of Beginnings	-		Wälder des Phönix
+Event					-		Ereignis
+Festival				-		Festival
+Request					-		Auftrag
+Dash					-		Sprint
+Dash Attack				-		Sprint-Attacke
+Charged Attack			-		Aufgeladener Angriff
+Novice					-		Anfänger
+Firefly					-		Glühwürmchen
 
 Native Dragon			-		Einheimischer Drache
 Wooly					-		Wolli
@@ -266,6 +289,7 @@ Sparkling Orb			-		Funkelnde Kugel
 Flittering Orb			-		Flatternde Kugel
 Freezing Orb			-		Gefrierende Kugel
 Twinkle					-		Glanz
+Rune Sphere				-		Runenkugel
 
 Buddy Battle			-		Kumpel-Kampf
 
@@ -286,6 +310,8 @@ Pond Smelt				-		Nudelfisch
 Rockfish				-		Steinfisch
 Boot					-		Stiefel
 
+Failed Dish				-		Misslungenes Gericht
+
 Lady Ventuswill			-		Herrin Ventuswill
 Mistress Trupin			-		Miss Rübchen
 
@@ -302,6 +328,55 @@ Little					-		Kleine
 Sugar					-		Zuckerchen
 Landlady				-		Hausherrin
 Puppy					-		Hündchen
+
+Florist by Day, Sleuth by Night!		-		Florist bei Tag, Detektiv bei Nacht!
+It's a Mystery!							-		Es ist ein Mysterium!
+Barrels of Fun							-		Fässer voll Spaß
+Get It Together!						-		Reißt euch zusammen!
+Eyeglass Mania							-		Brillen-Fimmel
+A Friendly Secret						-		Ein vertrauliches Geheimnis
+Pajama Party Time!						-		Pyjama-Party!!
+A Knight's Steed						-		Das Ross eines Ritters
+The Running Sign						-		Das lebendige Schild
+Eternal Rivals							-		Ewige Rivalen
+A Cooper's Windfall						-		Eines Böttchers Glücksfall
+Uh-oh, It's Contagious					-		Oh-ahh, es ist ansteckend
+Don't Fall For It, Vishnal!				-		Fall nicht darauf rein, Vishnal!
+Someone Has the Wrong Idea				-		Jemand hat den falschen Einfall
+How To Make A Pile Of Money				-		Wie man einen Haufen Geld macht
+Thoughts Lost in the Lake				-		Im See verlorene Gedanken
+A Part-Time Job!						-		Eine Nebenbeschäftigung!
+Shiny Memories							-		Funkelnde Andenken
+Doug's Secret							-		Doug's Geheimnis
+A Day In Leon's Life					-		Ein Tag im Leben von Leon
+Don't Forget Your Physical!				-		Vergiss nicht deine Kondition!
+Introducing Amber Watson				-		Wir stellen vor: Amber Watson
+Smile Practice							-		Lächeln für Dummies
+A Porco and An Elf						-		Ein Schwein und eine Elfe
+A Favor Repaid							-		Einen Gefallen erwidert
+Too Much Free Time						-		Zu viel Freizeit
+A Performance Without an Audience		-		Eine Vorstellung ohne Publikum
+Sweet Nothings							-		Reizende Lüfte
+Love Charms								-		Liebeszauber
+Mood Reversal Medicine					-		Sinneswandel-Medizin
+Memories								-		Erinnerungen
+Your Answer								-		Deine Antwort
+An Ephemeral Wish						-		Ein flüchtiger Wunsch
+Where the Heart Is						-		Wo das Herz schlägt
+The Red Knight							-		Der Rote Ritter
+Being Here								-		Da sein
+For Clumsy You							-		Zwei linke Hände
+Transient Vision						-		Flüchtige Sicht
+Never Gonna Give Up!					-		Niemals aufgeben!
+Gratitude								-		Dankbarkeit
+A Very Special Ring						-		Ein ganz besonderer Ring
+The Language of Flowers					-		Die Sprache der Blumen
+A Letter From the Past					-		Eine Nachricht aus der Vergangenheit
+My First Errand							-		Mein erster Botengang
+Secret Present							-		Geheimes Geschenk
+I Want To Get Stronger!					-		Ich will stärker werden!
+Do You Like Me?							-		Magst du mich?
+A Stroll In the Sky						-		Ein Spaziergang in den Wolken
 
 							 --- DISCLAIMER ---
 
